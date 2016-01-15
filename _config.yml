@@ -1,7 +1,7 @@
-name: Are You a Witch?
+name: Are you a witch
 favicon: null
-layout_spectrum: 0.9672498346772045
-typography_spectrum: 0.5651236774865538
+layout_spectrum: 0.7405944317579269
+typography_spectrum: 0.842636133544147
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5110658020712435
-  lightness: 0.8048559683375061
-  saturation: 0.2642405757214874
-  rhythmicContrast: 0.6170707608107477
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6960946598555893
+  lightness: 0.9002715973183513
+  saturation: 0.8013890632428229
+  rhythmicContrast: 0.8009227078873664
 purpose: []
