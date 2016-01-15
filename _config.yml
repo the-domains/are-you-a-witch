@@ -1,7 +1,7 @@
 name: Are You a Witch?
 favicon: null
-layout_spectrum: 0.9672498346772045
-typography_spectrum: 0.5651236774865538
+layout_spectrum: 1
+typography_spectrum: 0.36788
 cta:
   domain: null
   bucket: null
