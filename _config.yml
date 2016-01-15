@@ -1,7 +1,7 @@
 name: Are You a Witch?
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.36788
+layout_spectrum: 0.9672498346772045
+typography_spectrum: 0.5651236774865538
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2b2a29'
-    - '#fefefe'
-    - '#030305'
-    - '#c7c7c7'
-    - '#919190'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
   brandStrength: 0.5110658020712435
   lightness: 0.8048559683375061
   saturation: 0.2642405757214874
