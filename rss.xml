@@ -2,35 +2,14 @@
     <channel>
         <title><![CDATA[Are you a witch]]></title>
         <description><![CDATA[Are you a witch]]></description>
-        <link>https://thegrid.ai/are-you-a-witch/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 21:31:54 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/are-you-a-witch/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Walking the Path, a personal story.]]></title>
-            <description><![CDATA[<article><h1>Walking the Path, a personal story.</h1><p>The worst thing that can happen to a person with extrasensory perceptions, powers of observation higher than those of “normal” humans, or a seeking mind way too active for the comfort of those around them, is to live in ignorance of his or her condition. When this happens he or she can end up within the walls of a psychiatric hospital at worst, and feeling confused, misunderstood, depressed, becoming easy prey to cults and manipulators at best.</p></article>]]></description>
-            <link>https://thegrid.ai/are-you-a-witch/walking-the-path-a-personal-story/index.html</link>
-            <guid isPermaLink="false">21ee2ae0-a3fa-4a81-ac65-7ef0f67c4273</guid>
-            <pubDate>Fri, 15 Jan 2016 21:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Some years back I had to visit a person who had been committed in a psychiatric hospital due to what the doctors called a depressive disorder. While I was chatting to him in the common room I felt a presence behind me, I turned to see a young and beautiful woman, she must have been around nineteen years old at the time. She entered the room accompanied by several other patients, chatting and smoking they walked passed and sat a little way from us.</p>]]></description>
-            <link>https://thegrid.ai/are-you-a-witch/efdf85e0-7b07-4c68-b482-f7f75ba00692/index.html</link>
-            <guid isPermaLink="false">efdf85e0-7b07-4c68-b482-f7f75ba00692</guid>
-            <pubDate>Fri, 15 Jan 2016 21:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There are three main sections ]]></title>
-            <description><![CDATA[<article><h1>There are three main sections </h1><p>Due to the growing interest in all things Magick, the first will look at identifying what makes a witch, what is witchcraft and what is magick. </p></article>]]></description>
-            <link>https://thegrid.ai/are-you-a-witch/there-are-three-main-sections/index.html</link>
-            <guid isPermaLink="false">41ac3dda-9333-4e7f-8520-f337082b9850</guid>
-            <pubDate>Fri, 15 Jan 2016 21:22:07 GMT</pubDate>
-        </item>
+        <lastBuildDate>Fri, 15 Jan 2016 21:30:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The worst thing that can happen to a person with extrasensory perceptions, powers of observation higher than those of “normal” humans, or a seeking mind way too active for the comfort of those around them, is to live in ignorance of his or her condition. When this happens he or she can end up within the walls of a psychiatric hospital at worst, and feeling confused, misunderstood, depressed, becoming easy prey to cults and manipulators at best.</p>]]></description>
-            <link>https://thegrid.ai/are-you-a-witch/a56ee80e-b40a-4820-b848-554ed193f686/index.html</link>
+            <link>undefineda56ee80e-b40a-4820-b848-554ed193f686/index.html</link>
             <guid isPermaLink="false">a56ee80e-b40a-4820-b848-554ed193f686</guid>
             <pubDate>Fri, 15 Jan 2016 21:20:56 GMT</pubDate>
         </item>
