@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Are You a Witch?]]></title>
-        <description><![CDATA[Are You a Witch?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Are you a witch]]></title>
+        <description><![CDATA[Are you a witch]]></description>
+        <link>https://thegrid.ai/are-you-a-witch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 19:18:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 21:31:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/are-you-a-witch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[There are three main sections ]]></title>
+            <description><![CDATA[<article><h1>There are three main sections </h1><p>Due to the growing interest in all things Magick, the first will look at identifying what makes a witch, what is witchcraft and what is magick. </p></article>]]></description>
+            <link>https://thegrid.ai/are-you-a-witch/there-are-three-main-sections/index.html</link>
+            <guid isPermaLink="false">41ac3dda-9333-4e7f-8520-f337082b9850</guid>
+            <pubDate>Fri, 15 Jan 2016 21:22:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The worst thing that can happen to a person with extrasensory perceptions, powers of observation higher than those of “normal” humans, or a seeking mind way too active for the comfort of those around them, is to live in ignorance of his or her condition. When this happens he or she can end up within the walls of a psychiatric hospital at worst, and feeling confused, misunderstood, depressed, becoming easy prey to cults and manipulators at best.</p>]]></description>
-            <link>undefineda56ee80e-b40a-4820-b848-554ed193f686/index.html</link>
+            <link>https://thegrid.ai/are-you-a-witch/a56ee80e-b40a-4820-b848-554ed193f686/index.html</link>
             <guid isPermaLink="false">a56ee80e-b40a-4820-b848-554ed193f686</guid>
-            <pubDate>Fri, 15 Jan 2016 19:18:08 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 21:20:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
